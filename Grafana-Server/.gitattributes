@@ -1,0 +1,3 @@
+*.sh eol=lf
+*.tfstate eol=lf
+
